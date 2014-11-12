@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidSpellChecker</string>
+    <string name="btnCheck">Check</string>
+</resources>
